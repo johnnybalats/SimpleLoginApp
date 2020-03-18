@@ -12,5 +12,10 @@
     "angular-font-awesome": "^3.1.2",
     "font-awesome": "^4.7.0",
     "lite-server": "^2.5.4"
-  }
+  },
+  "styles": [
+    "src/styles.css",
+    "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "./node_modules/font-awesome/css/font-awesome.min.css"
+  ]
 }
