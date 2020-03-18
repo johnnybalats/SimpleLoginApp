@@ -9,6 +9,8 @@
   "author": "mpalatsos",
   "license": "ISC",
   "dependencies": {
+    "angular-font-awesome": "^3.1.2",
+    "font-awesome": "^4.7.0",
     "lite-server": "^2.5.4"
   }
 }
